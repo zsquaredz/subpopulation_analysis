@@ -87,7 +87,7 @@ python code/run_MLM.py \
 You could also use the provided script to help you run inference/evaluation in one script:
 
 ```
-$  ./inference.sh
+$  ./scripts/inference.sh
 ```
 In the script, you will need to set the following variables:
 - `MODELSIZE`: can take values of 10, 25, 50, 75, 200
@@ -109,7 +109,7 @@ python code/analysis.py \
 
 Again, you could use the provided script to run all SVCCA in one go:
 ```
-$ ./run_svcca.sh
+$ ./scripts/run_svcca.sh
 ```
 You will need to manually set `best_epoch` for `epoch1` and `epoch2`, similar to what you did for the inference script. 
 
