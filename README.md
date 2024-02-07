@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+<img src="./subpopulation_analysis.png" alt="Subpopulation_analysis" style="width: 40%; min-width: 300px; display: block; margin: auto;">
+</p>
+
 # Understanding Domain Learning in Language Models Through Subpopulation Analysis
 This repository contains code for the paper "Understanding Domain Learning in Language Models Through Subpopulation Analysis" [[pdf](https://aclanthology.org/2022.blackboxnlp-1.16/)]. 
 
