@@ -3,7 +3,7 @@
 </p>
 
 # Understanding Domain Learning in Language Models Through Subpopulation Analysis
-This repository contains code for the paper "Understanding Domain Learning in Language Models Through Subpopulation Analysis" [[pdf](https://aclanthology.org/2022.blackboxnlp-1.16/)]. 
+This repository contains code for the paper "Understanding Domain Learning in Language Models Through Subpopulation Analysis" [[pdf](https://aclanthology.org/2022.blackboxnlp-1.16/)]. In this work, we propose a general sub-population analysis technique called MOSSA (Model-Oriented Sub-population and Spectral Analysis) which can be applied to analyze representations from language models trained from different distributions of data. You can read more about the method in Section 2 of the paper.
 
 ## Required Packages
 To install required packages, run the following command:
